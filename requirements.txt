@@ -1,0 +1,5 @@
+requests
+pyTelegramBotAPI
+pycryptodome
+protobuf
+urllib3
