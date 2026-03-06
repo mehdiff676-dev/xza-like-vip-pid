@@ -2,4 +2,5 @@ requests
 pyTelegramBotAPI
 pycryptodome
 protobuf
+flask
 urllib3
