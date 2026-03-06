@@ -4,3 +4,4 @@ pycryptodome
 protobuf
 flask
 urllib3
+colorama
